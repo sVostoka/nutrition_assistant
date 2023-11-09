@@ -1,0 +1,1 @@
+const emptyFoodImage = "https://static.vecteezy.com/system/resources/previews/003/206/491/original/empty-bowl-icon-in-linear-style-food-dish-for-soup-or-salad-free-vector.jpg";
